@@ -15,7 +15,9 @@ CORE_IMAGE_EXTRA_INSTALL += " \
     php-cgi \
     net-snmp-server redis \
     libmodbus libhiredis libevent \
+    libssh2 \
     packagegroup-core-ssh-dropbear \
     socat \
     ser2net \
+    tcpdump \
 "
